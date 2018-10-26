@@ -1,0 +1,9 @@
+﻿  BMinusTree.cpp
+d:\mess\bminustree\bminustree\bminustree.cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+  mian.cpp
+d:\mess\bminustree\bminustree\mian.cpp(2): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码...
+d:\mess\bminustree\bminustree\bminustree.cpp(51): warning C4715: “BMinusTree::search”: 不是所有的控件路径都返回值
+d:\mess\bminustree\bminustree\bminustree.cpp(163): warning C4715: “BMinusTree::Insert”: 不是所有的控件路径都返回值
+d:\mess\bminustree\bminustree\bminustree.cpp(179): warning C4715: “BMinusTree::Remove”: 不是所有的控件路径都返回值
+  BMinusTree.vcxproj -> D:\mess\BMinusTree\Debug\BMinusTree.exe
